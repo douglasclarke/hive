@@ -52,7 +52,7 @@
       <groupId>org.apache.hadoop</groupId>
       <artifactId>hadoop-common</artifactId>
       <optional>true</optional>
-      <version>${hadoop.version}</version>
+      <version>3.3.5</version>
       <exclusions>
         <exclusion>
           <groupId>commons-beanutils</groupId>
